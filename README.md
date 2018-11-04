@@ -1,0 +1,1 @@
+# Magic Dashbaord Skeleton project.
